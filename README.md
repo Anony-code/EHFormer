@@ -10,7 +10,7 @@ This code is based on [HGB](https://github.com/THUDM/HGB), [HINormer](https://gi
 
 # Dataset
 
-We use the same dataset as [PHGT](https://github.com/BUPT-GAMMA/PHGT)
+We use the same dataset as [PHGT](https://github.com/BUPT-GAMMA/PHGT) and [HINormer](https://github.com/Ffffffffire/HINormer)
 
 # Run Experiments
 
